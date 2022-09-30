@@ -11,7 +11,7 @@ Sample Input
 
 
 
-// Input Format
+// Input Format 
 
 // The first line contains two space-separated integers,  n and m, the number of elements in arrays a and b.
 // The second line contains n distinct space-separated integers a[i] where 0<=i<n.
