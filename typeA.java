@@ -18,7 +18,7 @@ Sample Input
 // The third line contains m distinct space-separated integers b[j] where 0<=j<m.
 
 
-// Code: 
+// Code:  
 
 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
