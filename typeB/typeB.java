@@ -3,6 +3,7 @@
 
 Sample Input:
 
+1
 2  3  1
 2  4  16
 16 32 96
@@ -14,7 +15,8 @@ Sample Input:
 
 // Input Format 
 
-// The first line contains three-separated integers,  n, m and q, the number of rows and columns in the matrix and number representing the query.
+// The first line contains Integer tc, number of testcases. 
+// The second line contains three-separated integers,  n, m and q, the number of rows and columns in the matrix and number representing the query.
 // The next n lines represent the content of the matrix. 
 
 
